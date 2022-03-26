@@ -3,7 +3,7 @@ version: 2
 sources:
 
     - name: core
-      # For bigquery:
+      # for bigquery:
       database: de-zoomcamp-10   
       schema: netflix_dataset      
       tables:
